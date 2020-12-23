@@ -34,6 +34,7 @@
 
 - [Git][]
 - [Fish][] ≥ 3.1
+- [Fisher][] ≥ 4.0
 - A [Nerd Font][nerd fonts] installed and enabled in your terminal (for example the [recommended font](#fonts)).
 
 Install with [Fisher][]:
